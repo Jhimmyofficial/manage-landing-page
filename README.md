@@ -41,7 +41,7 @@ Users should be able to:
 - Flexbox
 - CSS Media Queries
 - Mobile-first workflow
--[Swiper.Js](https://swiperjs.com/) For Carousel
+- [Swiper.Js](https://swiperjs.com/) For Carousel
 
 
 ## Author
