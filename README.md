@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: (https://jhimmyofficial.github.io/manage-landing-page/)
+- Solution URL: https://github.com/Jhimmyofficial/manage-landing-page
+- Live Site URL: https://jhimmyofficial.github.io/manage-landing-page/
 
 ## My process
 
